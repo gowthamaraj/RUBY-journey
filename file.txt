@@ -1,0 +1,6 @@
+apple
+ball
+carrot
+dog
+elephant
+fish
